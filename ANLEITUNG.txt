@@ -1,0 +1,5 @@
+APK bauen (ohne PC-Installation):
+1. Kostenloses GitHub-Konto, neues Repository, diesen Ordnerinhalt hochladen.
+2. Reiter "Actions" -> "APK bauen" -> "Run workflow".
+3. Nach ca. 5-10 Min unter "Artifacts" die MeineEngine-APK laden und installieren.
+Alternativ: Ordner in Android Studio oeffnen -> Run.
